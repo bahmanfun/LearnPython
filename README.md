@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>git hub</title>
 </head>
 <body>
 <h1>
@@ -24,4 +24,4 @@ thanks for read this text
 
 
 </body>
-</html>>
+</html>
