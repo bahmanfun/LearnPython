@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>git hub</title>
+	
 </head>
 <body>
 <h1>
